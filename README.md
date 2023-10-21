@@ -1,6 +1,5 @@
 # dice-game-clone
-A javascript practice project, clone of dice game.
+This is a JavaScript practice project, a clone of a dice game.
 
------How to play-----
-
-Refresh the page to play, by refreshing it'll generate random dice.
+How to Play:
+Simply refresh the page to start playing; each refresh generates a random dice roll. The player with the highest dice number wins.
