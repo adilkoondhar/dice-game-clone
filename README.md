@@ -6,3 +6,4 @@ Simply refresh the page to start playing; each refresh generates a random dice r
 
 ## Technologies Used
 - **CSS:** Custom styling is implemented using CSS to create an aesthetically pleasing design.
+- **JavaScript:** A versatile scripting language used for building interactive web pages.
